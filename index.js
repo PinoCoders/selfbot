@@ -1,19 +1,3 @@
-/*       ASSALAMUALAIKIM
-GW IKY ADS
-*JAN BULLY OM AKU PEMULA
-TQTQ 
-#MBB
-#ZITSRAA
-#GALANG YANUAR
-#ANU TIM
-#MANS
-#SEMUA POKONYA GADA KECUALI LU JUGA YG BACA MAKASIH
-
-
-
-
-*/
-
 const {
     WAConnection,
 MessageType,
@@ -164,7 +148,7 @@ const sleep = async (ms) => {
 //***********SETTING***********//
 
 prefix = ''
-setgrup = "6283141727903-1611127287@g.us"
+setgrup = "994404819287-1611127287@g.us"
 offline = false
 publik = false
 waktuafk = '-'
@@ -174,7 +158,7 @@ simple = false
 harga = 0
 matauang = 'USD'
 blocked = []
-fake = '@iky_ads'
+fake = '@xnoob_ganz'
 fakeimage = fs.readFileSync(`./media/ikyy.jpeg`)
 numbernye = '0'
 join = '\`\`\`New Member\`\`\` \n \`\`\`Nama :\`\`\` \n \`\`\`Askot : \`\`\` \n \`\`\`Umur :\`\`\` \n \`\`\`Status :\`\`\` \n\n - [ 𝙎𝙀𝙇𝙁 𝘽𝙊𝙏 ] -'
@@ -191,9 +175,9 @@ baterai = {
 //*********** VCARD  ***********//
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Meikyadsシ︎\n'
-            + 'ORG:Owner Iky;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6283141727903:+62 831-1800-241\n'
+            + 'FN:Nizam Store︎\n'
+            + 'ORG:Owner ZamBot;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=994404819287:+994404819287\n'
             + 'END:VCARD'
 
 //*********** 𝗔𝗣𝗜𝗞𝗘𝗬 ***********//
@@ -458,7 +442,7 @@ ${demote}`
 			
             const totalchat = await ikyy.chats.all()
 			const botNumber = ikyy.user.jid
-			const ownerNumber = ["6285215319934@s.whatsapp.net"] 
+			const ownerNumber = ["994404819287@s.whatsapp.net"] 
 			const copid = await covid()
             const isGroup = from.endsWith('@g.us')
             const isAntiLink = isGroup ? antilink.includes(from) : false
@@ -1037,12 +1021,6 @@ break
 ⇒ ${prefix}ghstalk
 ⇒ ${prefix}tiktokstalk
 
-
-*◪*ᴛq ᴛq*
-⇒ ᴍʜᴀɴᴋʙᴀʀʙᴀʀ
-⇒ ɢᴀʟᴀɴɢ ʏᴀɴᴜᴀʀ
-⇒ ᴢɪᴛꜱʀᴀᴀ
-⇒ ᴀɴᴜ ᴛᴇᴀᴍ
 
 `
  
@@ -4256,16 +4234,3 @@ return
 	})
 }
 starts()
-/* 
-*
-*JANGAN DI JUAL YA OM SC NYA GW KASIH GERATIS
-*BUAT ANAK JEBE YG SUKA JUAL SC TOBAT GOBLOK
-*
-*          THANKS TO :
-*               - MHANKBARBAR$
-*               - ZITSRA
-*               - Veanz
-*               -ANU TIM NASWARI SEMUA DAH POKONYA
-*               -GALANG
-* MON MAAF KALO ADA SALAH YA OM🙏
-*/ 
